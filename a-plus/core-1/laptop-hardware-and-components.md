@@ -7,7 +7,7 @@ Given a scenario, install and configure laptop hardware and components, such as 
 ## Table of Contents
 
 - [Battery](#battery)
-- [Keyboard/keys](#keyboard-keys)
+- [Keyboard/keys](#keyboardkeys)
 - [Motherboard](#motherboard)
 - [RAM](#ram)
 - [Disk drives](#disk-drives)
@@ -32,11 +32,19 @@ Given a scenario, install and configure laptop hardware and components, such as 
 
 ## RAM
 
+![Random Access Memory](../../assets/ram.png)
+
 ## Disk drives
+
+![Disk drive](../../assets/disk-drive.png)
 
 ## Wireless cards and antenna
 
+![Wireless card](../../assets/wireless-card.png)
+
 ## Webcam and microphone
+
+![Webcam](../../assets/webcam.png)
 
 ## AC adapters
 
@@ -47,3 +55,5 @@ Given a scenario, install and configure laptop hardware and components, such as 
 ## Biometrics and cable locks
 
 ## Additional References
+
+- [Battery](http://www.iitk.ac.in/LDP/HOWTO/Battery-Powered/battery.html)

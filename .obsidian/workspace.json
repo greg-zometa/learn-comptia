@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "a-plus/core-1/laptop-hardware-and-components.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -148,6 +148,10 @@
   },
   "active": "9b7f9026e7aa0dd4",
   "lastOpenFiles": [
+    "assets/webcam.png",
+    "assets/wireless-card.png",
+    "assets/disk-drive.png",
+    "assets/ram.png",
     "assets/backlight-inverter.png",
     "assets/motherboard.png",
     "assets/keyboard-keys.png",
