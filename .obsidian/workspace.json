@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "becfca3e417aaf7c",
+        "id": "9222656cebf3233b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7f9026e7aa0dd4",
+            "id": "ab7bb385c1fbefaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e81a1d487038173b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a-plus/core-1/mobile-device-displays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb3378f6920130f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a-plus/core-1/mobile-device-ports-and-accessories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0e315c944e2b248b",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-plus/core-1/laptop-hardware-and-components.md",
+                "file": "a-plus/core-1/mobile-device-ports-and-accessories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-plus/core-1/laptop-hardware-and-components.md",
+                "file": "a-plus/core-1/mobile-device-ports-and-accessories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-plus/core-1/laptop-hardware-and-components.md"
+                "file": "a-plus/core-1/mobile-device-ports-and-accessories.md"
               }
             }
           }
@@ -146,8 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b7f9026e7aa0dd4",
+  "active": "bb3378f6920130f1",
   "lastOpenFiles": [
+    "assets/device-ports.png",
+    "a-plus/core-1/mobile-device-displays.md",
+    "a-plus/core-1/mobile-device-ports-and-accessories.md",
+    "a-plus/core-1/laptop-hardware-and-components.md",
+    "().md",
     "assets/webcam.png",
     "assets/wireless-card.png",
     "assets/disk-drive.png",
@@ -156,11 +187,9 @@
     "assets/motherboard.png",
     "assets/keyboard-keys.png",
     "Random-access.md",
-    "a-plus/core-1/laptop-hardware-and-components.md",
     "assets/battery.png",
     "assets/laptop-components.png",
     "assets/laptop.png",
-    "().md",
     "assets",
     "README.md",
     "a-plus/core-2",
