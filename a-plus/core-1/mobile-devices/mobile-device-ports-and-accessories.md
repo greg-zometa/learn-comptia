@@ -1,6 +1,6 @@
 # Mobile Device Ports and Accessories
 
-![Device ports](../../assets/device-ports.png)
+![Device ports](device-ports.png)
 
 Given a scenario, set up and configure accessories and ports for mobile devices. 
 
@@ -20,7 +20,13 @@ Given a scenario, set up and configure accessories and ports for mobile devices.
 
 ## Universal Serial Bus (USB)
 
+![USB types](usb-type.png)
+
+
+
 ## Lightning (Apple's proprietary connector)
+
+![Lightning cable](apple-lightning-cable.jpg)
 
 ## TRS 1/8 audio jack
 

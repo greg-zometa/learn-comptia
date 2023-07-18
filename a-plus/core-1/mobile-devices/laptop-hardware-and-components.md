@@ -1,6 +1,6 @@
 # Laptop Hardware and Components
 
-![laptop](../../assets/laptop-components.png)
+![laptop](laptop-components.png)
 
 Given a scenario, install and configure laptop hardware and components, such as hard disk drives (HDDs), solid disk drives (SSDs), webcams, wireless cards, antennas, etc. 
 
@@ -18,7 +18,7 @@ Given a scenario, install and configure laptop hardware and components, such as 
 
 ## Battery
 
-![Battery](../../assets/battery.png)
+![Battery](battery.png)
 
 Two major considerations to keep in mind are cooling and battery life for a laptop to operate.
 
@@ -35,13 +35,13 @@ Ensure that the battery types match the laptop that is being used.
 
 ## Keyboard/keys
 
-![Keyboard keys](../../assets/keyboard-keys.png)
+![Keyboard keys](keyboard-keys.png)
 
 [Laptop keyboards have a connector to the motherboard](https://youtu.be/GUzBWFqTKwM?t=193).  Be cautious as some keyboards may be part of the case (holds and protects internal components).
 
 ## Motherboard
 
-![Motherboard](../../assets/motherboard.png)
+![Motherboard](motherboard.png)
 
 Motherboards are extremely proprietary. Integrated or [embedded systems](https://en.wikipedia.org/wiki/Embedded_system) allow a combination of systems, CPUs, RAM, I/O devices, to be a part of a larger electronic system making it costly to replace (if damaged may have to replace all), yet efficient to use in a hardware space.
 
@@ -49,7 +49,7 @@ Motherboards are extremely proprietary. Integrated or [embedded systems](https:/
 
 ## RAM
 
-![Random Access Memory](../../assets/ram.png)
+![Random Access Memory](ram.png)
 
 Think of [RAM](https://www.google.com/search?q=what+is+the+purpose+of+ram) as a caching layer for the hardware to fetch resources during your current session very quickly.
 
@@ -57,7 +57,7 @@ Be aware of the difference between static RAM([SRAM](https://en.wikipedia.org/wi
 
 ## Disk drives
 
-![Disk drive](../../assets/disk-drive.png)
+![Disk drive](disk-drive.png)
 
 [SSDs](https://en.wikipedia.org/wiki/Solid-state_drive) use semiconductor cells.
 
@@ -65,19 +65,19 @@ Be aware of the difference between static RAM([SRAM](https://en.wikipedia.org/wi
 
 ## Wireless cards and antenna
 
-![Wireless card](../../assets/wireless-card.png)
+![Wireless card](wireless-card.png)
 
 [Wireless cards](https://premioinc.com/blogs/blog/what-is-a-wireless-card-and-how-does-it-work) enable internet connection under the coverage of a wireless local area network. They transmit data through radio waves frequency wirelessly.
 
 ## Webcam and microphone
 
-![Webcam](../../assets/webcam.png)
+![Webcam](webcam.png)
 
 [Modern webcams and microphones are built into the laptop](https://youtu.be/-qrjiBy_SyA?t=25).
 
 ## Backlight Inverter
 
-![Backlight inverter](../../assets/backlight-inverter.png)
+![Backlight inverter](backlight-inverter.png)
 
 Backlight inverters power/illuminate the display of a monitor. They are commonly used in LCD panels. They are not needed in LED/OLED displays.
 
