@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e81a1d487038173b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
+                "file": "a-plus/core-1/networking/ports-and-protocols.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0e315c944e2b248b",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
+                "file": "a-plus/core-1/networking/ports-and-protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
+                "file": "a-plus/core-1/networking/ports-and-protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md"
+                "file": "a-plus/core-1/networking/ports-and-protocols.md"
               }
             }
           }
@@ -159,10 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e81a1d487038173b",
+  "active": "ab7bb385c1fbefaf",
   "lastOpenFiles": [
-    "a-plus/core-1/mobile-devices/mobile-device-displays.md",
     "a-plus/core-1/mobile-devices/mobile-device-ports-and-accessories.md",
+    "a-plus/core-1/mobile-devices/mobile-device-displays.md",
+    "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
+    "().md",
+    "a-plus/core-1/networking/ports-and-protocols.md",
     "assets/wireless-card.png",
     "assets/webcam.png",
     "assets/usb-type.png",
@@ -173,15 +164,12 @@
     "assets/disk-drive.png",
     "assets/device-ports.png",
     "assets/battery.png",
-    "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
     "a-plus/core-1/virtualization-and-cloud",
     "a-plus/core-1/troubleshooting",
     "a-plus/core-1/hardware",
-    "a-plus/core-1/networking/ports-and-protocols.md",
     "a-plus/core-1/networking",
     "a-plus/core-1/mobile-devices",
     "assets/apple-connector.avif",
-    "().md",
     "Random-access.md",
     "assets",
     "README.md",
