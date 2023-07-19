@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a-plus/core-1/mobile-devices/mobile-device-ports-and-accessories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90afdd71809c83dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a-plus/core-1/networking/ports-and-protocols.md",
+                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-plus/core-1/networking/ports-and-protocols.md",
+                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-plus/core-1/networking/ports-and-protocols.md",
+                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-plus/core-1/networking/ports-and-protocols.md"
+                "file": "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md"
               }
             }
           }
@@ -171,34 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c975cc2dafd1e73b",
+  "active": "e81a1d487038173b",
   "lastOpenFiles": [
+    "a-plus/core-1/mobile-devices/mobile-device-displays.md",
     "a-plus/core-1/mobile-devices/mobile-device-ports-and-accessories.md",
+    "assets/wireless-card.png",
+    "assets/webcam.png",
+    "assets/usb-type.png",
+    "assets/ram.png",
+    "assets/motherboard.png",
+    "assets/laptop-components.png",
+    "assets/keyboard-keys.png",
+    "assets/disk-drive.png",
+    "assets/device-ports.png",
+    "assets/battery.png",
+    "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
+    "a-plus/core-1/virtualization-and-cloud",
+    "a-plus/core-1/troubleshooting",
+    "a-plus/core-1/hardware",
     "a-plus/core-1/networking/ports-and-protocols.md",
     "a-plus/core-1/networking",
     "a-plus/core-1/mobile-devices",
-    "a-plus/core-1/mobile-devices/mobile-device-displays.md",
-    "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
-    "assets/backlight-inverter.png",
-    "assets/apple-lightning-cable.jpg",
-    "assets/apple-lightning-cable.webp",
-    "assets/wireless-card.png",
-    "assets/battery.png",
     "assets/apple-connector.avif",
-    "assets/usb-type.png",
-    "assets/device-ports.png",
     "().md",
-    "assets/webcam.png",
-    "assets/disk-drive.png",
-    "assets/ram.png",
     "Random-access.md",
     "assets",
     "README.md",
     "a-plus/core-2",
     "a-plus/core-1",
-    "pentest",
-    "linux",
-    "network",
-    "security"
+    "pentest"
   ]
 }

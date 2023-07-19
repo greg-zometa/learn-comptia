@@ -1,7 +1,5 @@
 # Laptop Hardware and Components
 
-![laptop](laptop-components.png)
-
 Given a scenario, install and configure laptop hardware and components, such as hard disk drives (HDDs), solid disk drives (SSDs), webcams, wireless cards, antennas, etc. 
 
 ## Table of Contents
@@ -18,8 +16,6 @@ Given a scenario, install and configure laptop hardware and components, such as 
 
 ## Battery
 
-![Battery](battery.png)
-
 Two major considerations to keep in mind are cooling and battery life for a laptop to operate.
 
 - Nickel Cadmium ([Ni-Cd](https://www.google.com/search?q=pronunciation+nicad))
@@ -35,13 +31,9 @@ Ensure that the battery types match the laptop that is being used.
 
 ## Keyboard/keys
 
-![Keyboard keys](keyboard-keys.png)
-
 [Laptop keyboards have a connector to the motherboard](https://youtu.be/GUzBWFqTKwM?t=193).  Be cautious as some keyboards may be part of the case (holds and protects internal components).
 
 ## Motherboard
-
-![Motherboard](motherboard.png)
 
 Motherboards are extremely proprietary. Integrated or [embedded systems](https://en.wikipedia.org/wiki/Embedded_system) allow a combination of systems, CPUs, RAM, I/O devices, to be a part of a larger electronic system making it costly to replace (if damaged may have to replace all), yet efficient to use in a hardware space.
 
@@ -49,15 +41,11 @@ Motherboards are extremely proprietary. Integrated or [embedded systems](https:/
 
 ## RAM
 
-![Random Access Memory](ram.png)
-
 Think of [RAM](https://www.google.com/search?q=what+is+the+purpose+of+ram) as a caching layer for the hardware to fetch resources during your current session very quickly.
 
 Be aware of the difference between static RAM([SRAM](https://en.wikipedia.org/wiki/Static_random-access_memory)) and dynamic RAM ([DRAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory)) along with the 5 types of [SDRAM](https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory).
 
 ## Disk drives
-
-![Disk drive](disk-drive.png)
 
 [SSDs](https://en.wikipedia.org/wiki/Solid-state_drive) use semiconductor cells.
 
@@ -65,19 +53,13 @@ Be aware of the difference between static RAM([SRAM](https://en.wikipedia.org/wi
 
 ## Wireless cards and antenna
 
-![Wireless card](wireless-card.png)
-
 [Wireless cards](https://premioinc.com/blogs/blog/what-is-a-wireless-card-and-how-does-it-work) enable internet connection under the coverage of a wireless local area network. They transmit data through radio waves frequency wirelessly.
 
 ## Webcam and microphone
 
-![Webcam](webcam.png)
-
 [Modern webcams and microphones are built into the laptop](https://youtu.be/-qrjiBy_SyA?t=25).
 
 ## Backlight Inverter
-
-![Backlight inverter](backlight-inverter.png)
 
 Backlight inverters power/illuminate the display of a monitor. They are commonly used in LCD panels. They are not needed in LED/OLED displays.
 
