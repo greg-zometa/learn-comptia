@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a-plus/core-1/networking/ports-and-protocols.md",
+                "file": "a-plus/core-1/networking/networking-hardware.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0e315c944e2b248b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-plus/core-1/networking/ports-and-protocols.md",
+                "file": "a-plus/core-1/networking/networking-hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-plus/core-1/networking/ports-and-protocols.md",
+                "file": "a-plus/core-1/networking/networking-hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-plus/core-1/networking/ports-and-protocols.md"
+                "file": "a-plus/core-1/networking/networking-hardware.md"
               }
             }
           }
@@ -149,11 +148,12 @@
   },
   "active": "ab7bb385c1fbefaf",
   "lastOpenFiles": [
+    "a-plus/core-1/networking/ports-and-protocols.md",
+    "a-plus/core-1/networking/networking-hardware.md",
     "a-plus/core-1/mobile-devices/mobile-device-ports-and-accessories.md",
     "a-plus/core-1/mobile-devices/mobile-device-displays.md",
     "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
     "().md",
-    "a-plus/core-1/networking/ports-and-protocols.md",
     "assets/wireless-card.png",
     "assets/webcam.png",
     "assets/usb-type.png",
