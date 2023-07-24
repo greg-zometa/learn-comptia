@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9222656cebf3233b",
+        "id": "46d9c29b823ea5df",
         "type": "tabs",
         "children": [
           {
-            "id": "ab7bb385c1fbefaf",
+            "id": "2202ac8acee9ae13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a-plus/core-1/networking/network-hosts-and-services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7a6fd2a2a673c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a-plus/core-1/networking/domain-name-system.md",
+                "file": "a-plus/core-1/networking/ip-address-format.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-plus/core-1/networking/network-hosts-and-services.md",
+                "file": "a-plus/core-1/networking/ip-address-format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-plus/core-1/networking/network-hosts-and-services.md",
+                "file": "a-plus/core-1/networking/ip-address-format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-plus/core-1/networking/network-hosts-and-services.md"
+                "file": "a-plus/core-1/networking/ip-address-format.md"
               }
             }
           }
@@ -158,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab7bb385c1fbefaf",
+  "active": "2202ac8acee9ae13",
   "lastOpenFiles": [
+    "a-plus/core-1/networking/dynamic-host-configuration-protocol.md",
+    "a-plus/core-1/networking/ip-address-format.md",
     "a-plus/core-1/networking/wireless-protocols.md",
+    "a-plus/core-1/networking/ports-and-protocols.md",
     "a-plus/core-1/networking/domain-name-system.md",
     "a-plus/core-1/networking/network-hosts-and-services.md",
     "README.md",
     "a-plus/core-1/networking/networking-hardware.md",
-    "a-plus/core-1/networking/ports-and-protocols.md",
     "a-plus/core-1/mobile-devices/mobile-device-ports-and-accessories.md",
     "a-plus/core-1/mobile-devices/mobile-device-displays.md",
     "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
