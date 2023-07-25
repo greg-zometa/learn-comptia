@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a-plus/core-1/networking/ip-address-format.md",
+                "file": "a-plus/core-1/hardware/network-cables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-plus/core-1/networking/ip-address-format.md",
+                "file": "a-plus/core-1/hardware/network-cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-plus/core-1/networking/ip-address-format.md",
+                "file": "a-plus/core-1/hardware/network-cables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-plus/core-1/networking/ip-address-format.md"
+                "file": "a-plus/core-1/hardware/network-cables.md"
               }
             }
           }
@@ -148,12 +148,17 @@
   },
   "active": "2202ac8acee9ae13",
   "lastOpenFiles": [
-    "a-plus/core-1/networking/dynamic-host-configuration-protocol.md",
+    "a-plus/core-1/networking/network-types.md",
+    "a-plus/core-1/networking/network-tools.md",
+    "a-plus/core-1/hardware/network-cables.md",
+    "a-plus/core-1/networking/internet-connection-types.md",
+    "a-plus/core-1/networking/network-hosts-and-services.md",
     "a-plus/core-1/networking/ip-address-format.md",
+    "a-plus/core-1/networking/ip-address-configuration.md",
+    "a-plus/core-1/networking/dynamic-host-configuration-protocol.md",
     "a-plus/core-1/networking/wireless-protocols.md",
     "a-plus/core-1/networking/ports-and-protocols.md",
     "a-plus/core-1/networking/domain-name-system.md",
-    "a-plus/core-1/networking/network-hosts-and-services.md",
     "README.md",
     "a-plus/core-1/networking/networking-hardware.md",
     "a-plus/core-1/mobile-devices/mobile-device-ports-and-accessories.md",
