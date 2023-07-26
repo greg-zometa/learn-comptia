@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46d9c29b823ea5df",
+        "id": "a59b616d206fae72",
         "type": "tabs",
         "children": [
           {
-            "id": "2202ac8acee9ae13",
+            "id": "1aaa0fd70669f0da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a-plus/core-1/hardware/network-cables.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-plus/core-1/hardware/network-cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-plus/core-1/hardware/network-cables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "a-plus/core-1/hardware/network-cables.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2202ac8acee9ae13",
+  "active": "1aaa0fd70669f0da",
   "lastOpenFiles": [
+    "a-plus/core-1/hardware/network-cables.md",
+    "a-plus/core-1/hardware/bios-and-uefi.md",
+    "README.md",
+    "a-plus/core-1/virtualization-and-cloud/cloud-models-and-services.md",
+    "a-plus/core-1/hardware/printers.md",
+    "a-plus/core-1/Untitled",
+    "a-plus/core-1/hardware/printer-configuration.md",
+    "a-plus/core-1/hardware/power-upplies.md",
+    "a-plus/core-1/hardware/expansion-cards.md",
+    "a-plus/core-1/hardware/processors.md",
+    "a-plus/core-1/hardware/motherboards.md",
+    "a-plus/core-1/hardware/storage-devices.md",
+    "a-plus/core-1/hardware/random-access-memory.md",
+    "a-plus/core-1/hardware/storage-device-cables.md",
+    "a-plus/core-1/hardware/peripheral-and-video-cables.md",
     "a-plus/core-1/networking/network-types.md",
     "a-plus/core-1/networking/network-tools.md",
-    "a-plus/core-1/hardware/network-cables.md",
     "a-plus/core-1/networking/internet-connection-types.md",
     "a-plus/core-1/networking/network-hosts-and-services.md",
     "a-plus/core-1/networking/ip-address-format.md",
@@ -159,12 +165,8 @@
     "a-plus/core-1/networking/wireless-protocols.md",
     "a-plus/core-1/networking/ports-and-protocols.md",
     "a-plus/core-1/networking/domain-name-system.md",
-    "README.md",
     "a-plus/core-1/networking/networking-hardware.md",
     "a-plus/core-1/mobile-devices/mobile-device-ports-and-accessories.md",
-    "a-plus/core-1/mobile-devices/mobile-device-displays.md",
-    "a-plus/core-1/mobile-devices/laptop-hardware-and-components.md",
-    "().md",
     "assets/wireless-card.png",
     "assets/webcam.png",
     "assets/usb-type.png",
@@ -181,10 +183,8 @@
     "a-plus/core-1/networking",
     "a-plus/core-1/mobile-devices",
     "assets/apple-connector.avif",
-    "Random-access.md",
     "assets",
     "a-plus/core-2",
-    "a-plus/core-1",
-    "pentest"
+    "a-plus/core-1"
   ]
 }
