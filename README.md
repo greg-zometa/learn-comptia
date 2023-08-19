@@ -2,7 +2,7 @@
 
 <!--https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository-->
 
-Linked to Comptia blog posts from [website](https://zomtea.me)
+Linked to Comptia blog posts from [website](https://zometa.me)
 
 Journey to get the following certs:
 
